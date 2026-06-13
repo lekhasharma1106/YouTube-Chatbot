@@ -21,7 +21,7 @@ Hugging Face Embeddings
 Google Gemini
 Jupyter Notebook
 
-📂 Project Workflow
+📂 Project Workflow:
 User enters a YouTube Video ID.
 The application fetches the video transcript.
 Transcript text is cleaned and converted into chunks.
@@ -32,7 +32,7 @@ Relevant transcript chunks are retrieved using similarity search.
 Retrieved context and user question are passed to the LLM.
 The chatbot generates an accurate answer based on the video content.
 
-🧠 RAG Architecture
+🧠 RAG Architecture:
 YouTube Video
       │
       ▼
